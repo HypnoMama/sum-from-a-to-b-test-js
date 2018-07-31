@@ -9,8 +9,3 @@ function sum(fromN, toN) {
 }
 
 module.exports = sum;
-
-// from: 5 to: 10
-
-// should be 45
-
